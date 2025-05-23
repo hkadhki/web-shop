@@ -11,7 +11,7 @@
     <groupId>org.writer</groupId>
     <artifactId>web-shop</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>web</name>
+    <name>web-shop</name>
     <description>web</description>
     <url/>
     <licenses>
